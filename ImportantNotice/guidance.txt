@@ -1,0 +1,6 @@
+1. Download file and extract all.
+2. Download Xmapp from web and install.
+3. in Xmapp folder go to htdocs and save files in new folder name library.
+4. open chrome and type localhost.
+5. there you create database.
+ 
